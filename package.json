@@ -1,0 +1,23 @@
+{
+  "name": "cypressjs",
+  "version": "1.0.0",
+  "description": "Scalable Cypress Test Repository using Java Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikarinabin349/CypressJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikarinabin349/CypressJS/issues"
+  },
+  "homepage": "https://github.com/adhikarinabin349/CypressJS#readme",
+  "devDependencies": {
+    "cypress": "^14.0.3"
+  }
+}

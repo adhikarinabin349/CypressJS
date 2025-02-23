@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Cypress generated files
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Cypress config caches
+.cypress_cache/
+
+# Logs and temp files
+*.log
+*.tmp
+*.cache
+.DS_Store
+npm-debug.log*
+
+# Environment files (sensitive data)
+cypress.env.json
+.env
+.env.local
+.env.development
+.env.production
+.env.test
