@@ -27,6 +27,6 @@ Scalable Cypress Test Repository using Java Script
 ✅ **Maintainability** - Locators are in one place, making updates easy.  
 ✅ **Reusability** - Actions and helper functions can be used across tests.
 
-Now, you have a **clean, maintainable Cypress framework** 🚀 Let me know if you need any tweaks!
+Now, you have a **clean, maintainable Cypress framework** 🚀 Feedback at nabin.adhikari349@gmail.com
 
 
